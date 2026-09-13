@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#09090b" />
+  <rect width="62" height="62" x="1" y="1" rx="13" fill="none" stroke="#27272a" stroke-width="2" />
+  <!-- Bold Geometric 'B' Monogram -->
+  <path d="M19 14 H35 C42 14 46 17.5 46 23 C46 27.2 43.2 29.8 39 31 C44.5 32.2 48 35.5 48 41 C48 47.5 43 50 35 50 H19 V14 Z M28 22 V28.5 H33.5 C36.5 28.5 38.5 27 38.5 24.8 C38.5 22.8 36.5 22 33.5 22 H28 Z M28 35.5 V42 H34.5 C38 42 40 40.5 40 38.2 C40 36 38 35.5 34.5 35.5 H28 Z" fill="#ffffff" />
+  <!-- Subtle green pulse dot matching design system -->
+  <circle cx="49" cy="15" r="3.5" fill="#22c55e" />
+</svg>
