@@ -24,7 +24,7 @@ const portfolioData = {
     behance: "https://www.behance.net/Dopxmine",
     instagram: "https://www.instagram.com/bayuadirahayu?stkn=Y2hxaXhheDZqcXk5",
     tiktok: "https://www.tiktok.com/@dopxmine__",
-    resumePdf: "Bayu adi rahayu-resume .pdf",
+    resumePdf: "/Bayu adi rahayu-resume .pdf",
     bio: "Mahasiswa Desain Komunikasi Visual (IWU Bandung) dengan latar belakang Rekayasa Perangkat Lunak. Menggabungkan ketajaman estetika grafis, komposisi editorial modern, dan alur kerja berbasis kecerdasan buatan (AI-driven workflow) untuk merancang identitas visual, kemasan premium, serta antarmuka digital yang berdampak kuat.",
     stats: [
       { number: "04+", label: "Tahun Eksplorasi Visual" },
@@ -78,7 +78,7 @@ const portfolioData = {
       role: "Lead UI/UX & Design System",
       timeline: "6 Minggu",
       tagline: "Sistem ekosistem transaksi digital all-in-one dengan alur checkout instan dan keamanan idempotensi.",
-      heroImage: "assets/projects/izygo/hero.webp",
+      heroImage: "/assets/projects/izygo/hero.webp",
       overview: "IzyGo adalah platform solusi transaksi digital mandiri terintegrasi yang dirancang untuk memfasilitasi kebutuhan pembayaran elektronik, pengisian pulsa, paket data semua operator, voucher game, token listrik, hingga transfer saldo peer-to-peer (P2P). Proyek ini lahir dari transformasi ritel konvensional menjadi agensi produk digital mandiri yang memberdayakan mitra bisnis (reseller).",
       challenge: "Ketergantungan pada platform pihak ketiga membatasi kontrol margin dan integrasi alur kerja. Selain itu, pada sistem pembayaran mobile rawan terjadi kendala double-charge saat jaringan tidak stabil serta beban kognitif pengguna akibat alur transaksi yang berbelit-belit. Diperlukan antarmuka yang bersih, cepat (one-click flow), dan sistem keamanan idempotensi yang terpercaya.",
       approach: "Pengembangan dimulai dari pemetaan Persona Canvas (Pelajar/Mahasiswa & Mitra Bisnis), Use Case Diagram, hingga Activity Diagram lengkap. Arsitektur visual mengadopsi tema dark mode kontemporer dengan palet biru dinamis (#0F2027) dan aksen amber (#F7B731) untuk hierarki tombol. Mengimplementasikan layer Idempotency Key di level backend/edge function serta desain respons visual instan dengan indikator mikro-interaksi jelas.",
@@ -93,17 +93,17 @@ const portfolioData = {
       quote: "Antarmuka yang tenang dan terarah memangkas kebingungan bertransaksi menjadi pengalaman yang mulus dan memuaskan.",
       quoteAuthor: "IzyGo Product Vision",
       gallery: [
-        "assets/projects/izygo/hero.webp",
-        "assets/projects/izygo/izygo_page_5.webp",
-        "assets/projects/izygo/izygo_page_6.webp",
-        "assets/projects/izygo/izygo_page_13.webp",
-        "assets/projects/izygo/izygo_page_14.webp",
-        "assets/projects/izygo/izygo_page_19.webp",
-        "assets/projects/izygo/izygo_page_20.webp",
-        "assets/projects/izygo/izygo_page_21.webp"
+        "/assets/projects/izygo/hero.webp",
+        "/assets/projects/izygo/izygo_page_5.webp",
+        "/assets/projects/izygo/izygo_page_6.webp",
+        "/assets/projects/izygo/izygo_page_13.webp",
+        "/assets/projects/izygo/izygo_page_14.webp",
+        "/assets/projects/izygo/izygo_page_19.webp",
+        "/assets/projects/izygo/izygo_page_20.webp",
+        "/assets/projects/izygo/izygo_page_21.webp"
       ],
       videoFiles: [
-        { title: "IzyGo Feature & Interaction Promo", file: "Portofolio/Portofolio/Motion graphic/Mograph IzyGo.mp4" }
+        { title: "IzyGo Feature & Interaction Promo", file: "/Portofolio/Portofolio/Motion graphic/Mograph IzyGo.mp4" }
       ]
     },
 
@@ -117,7 +117,7 @@ const portfolioData = {
       role: "Packaging & Brand Identity Designer",
       timeline: "4 Minggu",
       tagline: "Desain kemasan pangan artisan minimalis dengan eksplorasi filosofi logo geometris yang elegan.",
-      heroImage: "assets/projects/hasle/1.webp",
+      heroImage: "/assets/projects/hasle/1.webp",
       overview: "Haslé adalah jenama kuliner dan pangan artisan lokal yang menghadirkan produk dengan bahan pilihan berkualitas tinggi. Proyek ini mencakup perancangan identitas visual, filosofi logo, dan rangkaian kemasan produk (pouch & box) yang memancarkan kesan premium, organik, dan modern di etalase ritel maupun pasar digital.",
       challenge: "Pasar makanan artisan dipenuhi desain yang ramai dan seragam. Tantangannya adalah merumuskan visual language yang bersih, restrained, namun memiliki focal point yang kuat sehingga langsung menarik perhatian konsumen tanpa mengorbankan kesan hangat dan otentik.",
       approach: "Menerapkan pendekatan Swiss Design dengan komposisi grid simetris, tipografi display modern, dan ruang negatif yang lapang. Logo dirancang dengan dasar geometris yang menyimpan filosofi keterhubungan dan keaslian rasa. Kemasan mengombinasikan palet warna monokromatik dengan sentuhan earthy tones untuk membedakan varian rasa.",
@@ -131,17 +131,17 @@ const portfolioData = {
       quote: "Kesederhanaan garis dan kekuatan ruang kosong justru menonjolkan mutu produk yang ada di dalamnya.",
       quoteAuthor: "Haslé Creative Direction",
       gallery: [
-        "assets/projects/hasle/1.webp",
-        "assets/projects/hasle/2.webp",
-        "assets/projects/hasle/3.webp",
-        "assets/projects/hasle/4.webp",
-        "assets/projects/hasle/5.webp",
-        "assets/projects/hasle/6.webp",
-        "assets/projects/hasle/7.webp",
-        "assets/projects/hasle/8.webp",
-        "assets/projects/hasle/9.webp",
-        "assets/projects/hasle/hasle_filosofi_page_1.webp",
-        "assets/projects/hasle/hasle_filosofi_page_2.webp"
+        "/assets/projects/hasle/1.webp",
+        "/assets/projects/hasle/2.webp",
+        "/assets/projects/hasle/3.webp",
+        "/assets/projects/hasle/4.webp",
+        "/assets/projects/hasle/5.webp",
+        "/assets/projects/hasle/6.webp",
+        "/assets/projects/hasle/7.webp",
+        "/assets/projects/hasle/8.webp",
+        "/assets/projects/hasle/9.webp",
+        "/assets/projects/hasle/hasle_filosofi_page_1.webp",
+        "/assets/projects/hasle/hasle_filosofi_page_2.webp"
       ]
     },
 
@@ -155,7 +155,7 @@ const portfolioData = {
       role: "Full-Stack Visual Designer & Developer",
       timeline: "Ongoing",
       tagline: "Identitas visual modern dan platform digital kreatif berbasis integrasi alur kerja kecerdasan buatan.",
-      heroImage: "assets/projects/branding/blumora_logo.webp",
+      heroImage: "/assets/projects/branding/blumora_logo.webp",
       overview: "Perancangan ekosistem visual dan identitas menyeluruh untuk Blumora, sebuah entitas agensi kreatif modern yang berfokus pada efisiensi produksi menggunakan AI-driven workflow. Proyek ini mencakup perancangan logo utama, monogram, panduan identitas brand, hingga arsitektur antarmuka digital.",
       challenge: "Menghadirkan bahasa visual yang merefleksikan kecanggihan teknologi dan kecerdasan buatan, tanpa terlihat kaku atau generik. Identitas harus mudah diadaptasi ke berbagai materi agensi mulai dari media sosial, kop surat, hingga antarmuka perangkat lunak.",
       approach: "Mengeksplorasi bentuk geometris fluid yang merepresentasikan kontinuitas inovasi, dipadukan dengan tipografi sans-serif berdaya baca tinggi. Alur kerja mengintegrasikan AI generatif untuk eksplorasi wireframe awal, yang kemudian dipoles dan dikodekan secara presisi menggunakan prinsip responsive design.",
@@ -169,12 +169,12 @@ const portfolioData = {
       quote: "Menyatukan intuisi desainer dan kecepatan komputasi cerdas menghasilkan karya yang cepat dan presisi.",
       quoteAuthor: "Blumora Studio Manifesto",
       gallery: [
-        "assets/projects/branding/blumora_logo.webp",
-        "assets/projects/branding/blumora_draft.webp",
-        "assets/projects/branding/blumora_white.webp",
-        "assets/projects/branding/brandbook_page_1.webp",
-        "assets/projects/branding/brandbook_page_2.webp",
-        "assets/projects/branding/brandbook_page_3.webp"
+        "/assets/projects/branding/blumora_logo.webp",
+        "/assets/projects/branding/blumora_draft.webp",
+        "/assets/projects/branding/blumora_white.webp",
+        "/assets/projects/branding/brandbook_page_1.webp",
+        "/assets/projects/branding/brandbook_page_2.webp",
+        "/assets/projects/branding/brandbook_page_3.webp"
       ]
     },
 
@@ -188,7 +188,7 @@ const portfolioData = {
       role: "Motion Designer & Animator",
       timeline: "Eksplorasi Berkelanjutan",
       tagline: "Animasi kinetik After Effects, puppet character rigging, dan video promosi dinamis.",
-      heroImage: "assets/projects/social/feed_35.webp",
+      heroImage: "/assets/projects/social/feed_35.webp",
       overview: "Koleksi karya animasi gerak (motion graphics) yang menggabungkan ilustrasi karakter, tipografi kinetik, dan ritme audio. Karya mencakup promosi aplikasi IzyGo, animasi komik digital, tugas karya kreatif 'Call of Void', dan puppet rigging karakter di Adobe After Effects.",
       challenge: "Mengatur tempo dan kurva percepatan gerak (easing) agar animasi terasa alami, dinamis, dan menarik perhatian audiens digital dalam beberapa detik pertama pemutaran.",
       approach: "Penerapan 12 prinsip dasar animasi (anticipation, squash and stretch, follow through), perancangan storyboard rinci, pemotongan layer vektor di Illustrator, serta rigging puppet pin dan integrasi sound effects di After Effects dan Premiere Pro.",
@@ -202,15 +202,15 @@ const portfolioData = {
       quote: "Gerak memberikan jiwa pada bentuk statis, mentransformasikan pesan menjadi pengalaman emosional.",
       quoteAuthor: "Motion Design Philosophy",
       videoFiles: [
-        { title: "IzyGo Promo Motion", file: "Portofolio/Portofolio/Motion graphic/Mograph IzyGo.mp4" },
-        { title: "Motion Comic Story", file: "Portofolio/Portofolio/Motion graphic/Mograph comic.mp4" },
-        { title: "Call of Void (KAIT)", file: "Portofolio/Portofolio/Motion graphic/KAIT UAS video Call of Void Kel Nut Think KBB.mp4" },
-        { title: "Kinetic Showcase Reel", file: "Portofolio/Portofolio/Motion graphic/Mographh 2.mp4" }
+        { title: "IzyGo Promo Motion", file: "/Portofolio/Portofolio/Motion graphic/Mograph IzyGo.mp4" },
+        { title: "Motion Comic Story", file: "/Portofolio/Portofolio/Motion graphic/Mograph comic.mp4" },
+        { title: "Call of Void (KAIT)", file: "/Portofolio/Portofolio/Motion graphic/KAIT UAS video Call of Void Kel Nut Think KBB.mp4" },
+        { title: "Kinetic Showcase Reel", file: "/Portofolio/Portofolio/Motion graphic/Mographh 2.mp4" }
       ],
       gallery: [
-        "assets/projects/social/feed_35.webp",
-        "assets/projects/social/feed_36.webp",
-        "assets/projects/social/feed_39.webp"
+        "/assets/projects/social/feed_35.webp",
+        "/assets/projects/social/feed_36.webp",
+        "/assets/projects/social/feed_39.webp"
       ]
     },
 
@@ -224,7 +224,7 @@ const portfolioData = {
       role: "Typeface Designer",
       timeline: "3 Minggu",
       tagline: "Perancangan font display orisinil yang terinspirasi oleh siluet senjata tradisional nusantara.",
-      heroImage: "assets/projects/posters/poster_informatif.webp",
+      heroImage: "/assets/projects/posters/poster_informatif.webp",
       overview: "Eksplorasi tipografi vernakular Indonesia dengan mentransformasikan lekukan, bilah tajam, dan karakter pusaka tradisional (keris & kujang) menjadi set glif huruf alfabet digital (TrueType Font).",
       challenge: "Menjaga keseimbangan antara unsur ekspresi etnik yang dramatis dengan keterbacaan (readability) saat teks digunakan pada judul utama, poster, atau judul media interaktif.",
       approach: "Riset visual terhadap morfologi senjata tradisional Sunda dan Jawa, pembuatan sketsa manual, digitalisasi vektor presisi menggunakan kurva Bézier, dan pengujian kerning serta proporsi x-height di perangkat lunak font editor.",
@@ -238,12 +238,12 @@ const portfolioData = {
       quote: "Warisan budaya tidak hanya disimpan di museum, tetapi dihidupkan kembali dalam setiap guratan huruf modern.",
       quoteAuthor: "Typeface Notes",
       fontFiles: [
-        "Portofolio/Portofolio/Font/Tradisionalfontbay-Regular.ttf",
-        "Portofolio/Portofolio/Font/Traditionalwaeponfont-Regular - Copy.ttf"
+        "/Portofolio/Portofolio/Font/Tradisionalfontbay-Regular.ttf",
+        "/Portofolio/Portofolio/Font/Traditionalwaeponfont-Regular - Copy.ttf"
       ],
       gallery: [
-        "assets/projects/posters/poster_informatif.webp",
-        "assets/projects/posters/ilustrasi_informatif.webp"
+        "/assets/projects/posters/poster_informatif.webp",
+        "/assets/projects/posters/ilustrasi_informatif.webp"
       ]
     },
 
@@ -257,7 +257,7 @@ const portfolioData = {
       role: "Graphic Designer & Illustrator",
       timeline: "Reguler",
       tagline: "Poster acara resmi, media penerimaan mahasiswa baru (PMB IWU), dan poster informatif edukatif.",
-      heroImage: "assets/projects/posters/hari_santri.webp",
+      heroImage: "/assets/projects/posters/hari_santri.webp",
       overview: "Kumpulan karya desain poster, flyer, dan ilustrasi komunikasi publik. Proyek mencakup poster Selamat Hari Santri Nasional, brosur Penerimaan Mahasiswa Baru (PMB) International Women University, dan poster informatif edukasi publik.",
       challenge: "Menata informasi verbal yang padat agar dapat dicerna dalam sekilas pandang oleh target pembaca di berbagai media cetak dan media sosial.",
       approach: "Penerapan hierarki tipografi tegas (Headline, Sub-headline, Body), grid terstruktur, pemilihan warna tematik yang berani, dan integrasi elemen ilustrasi vektor pendukung yang komunikatif.",
@@ -271,11 +271,11 @@ const portfolioData = {
       quote: "Poster yang baik tidak sekadar menghias dinding, melainkan memandu pemikiran dan menggerakkan tindakan.",
       quoteAuthor: "Editorial Philosophy",
       gallery: [
-        "assets/projects/posters/hari_santri.webp",
-        "assets/projects/posters/pmb_flyer.webp",
-        "assets/projects/posters/pmb_full.webp",
-        "assets/projects/posters/ilustrasi_informatif.webp",
-        "assets/projects/posters/poster_informatif.webp"
+        "/assets/projects/posters/hari_santri.webp",
+        "/assets/projects/posters/pmb_flyer.webp",
+        "/assets/projects/posters/pmb_full.webp",
+        "/assets/projects/posters/ilustrasi_informatif.webp",
+        "/assets/projects/posters/poster_informatif.webp"
       ]
     },
 
@@ -289,7 +289,7 @@ const portfolioData = {
       role: "Photographer & Retoucher",
       timeline: "Karya Akademik & Personal",
       tagline: "Studi komposisi puitis makro, pengamatan satwa liar, dan dokumentasi jalanan.",
-      heroImage: "assets/projects/photography/still_life.webp",
+      heroImage: "/assets/projects/photography/still_life.webp",
       overview: "Koleksi fotografi eksploratif yang menyelidiki interaksi cahaya, tekstur benda mati (Still Life), dan keindahan organik satwa liar (Wildlife). Salah satu karya terkenal adalah 'Dua Kacang Yang Romantis' dan 'Belalang Sembah di Pohon'.",
       challenge: "Membangun atmosfer emosional dan narasi cerita dari objek sehari-hari yang sederhana hanya melalui pencahayaan dan penempatan sudut pandang kamera.",
       approach: "Pemanfaatan pencahayaan samping terarah (directional side lighting), depth of field dangkal dengan bukaan lensa lebar, serta color grading yang mempertahankan nuansa organik alami.",
@@ -303,11 +303,11 @@ const portfolioData = {
       quote: "Fotografi adalah seni melihat hal yang luar biasa di dalam hal-hal yang biasa.",
       quoteAuthor: "Photography Perspective",
       gallery: [
-        "assets/projects/photography/still_life.webp",
-        "assets/projects/photography/wild_life.webp",
-        "assets/projects/photography/fujifilm_6145.webp",
-        "assets/projects/photography/fujifilm_6167.webp",
-        "assets/projects/photography/fujifilm_6183.webp"
+        "/assets/projects/photography/still_life.webp",
+        "/assets/projects/photography/wild_life.webp",
+        "/assets/projects/photography/fujifilm_6145.webp",
+        "/assets/projects/photography/fujifilm_6167.webp",
+        "/assets/projects/photography/fujifilm_6183.webp"
       ]
     },
 
@@ -321,7 +321,7 @@ const portfolioData = {
       role: "Identity Designer",
       timeline: "Koleksi Terpilih",
       tagline: "Koleksi logo geometris, lambang institusi, dan tanda visual berkekuatan tinggi.",
-      heroImage: "assets/projects/logos/ar_studio.webp",
+      heroImage: "/assets/projects/logos/ar_studio.webp",
       overview: "Koleksi tanda visual (brandmarks) untuk berbagai sektor: AR Studio, Satgas, Unit Pengumpul Zakat (UPZ), Useed, Gacii, dan entitas komunitas lainnya.",
       challenge: "Merancang simbol yang mudah diingat, berfungsi sempurna pada ukuran sekecil favicon 16px hingga sebesar baliho gedung, serta membawa makna filosofis klien.",
       approach: "Eksplorasi sketsa berbasis grid geometris dasar (lingkaran, segitiga, persegi), pengujian skalabilitas hitam-putih sebelum pewarnaan, dan pemilihan tipografi pelengkap yang harmonis.",
@@ -336,11 +336,11 @@ const portfolioData = {
       quote: "Logo yang kuat adalah tanda tangan visual yang berbicara bahkan sebelum kata-kata dibaca.",
       quoteAuthor: "Identity Standard",
       gallery: [
-        "assets/projects/logos/ar_studio.webp",
-        "assets/projects/logos/gacii.webp",
-        "assets/projects/logos/satgas.webp",
-        "assets/projects/logos/useed.webp",
-        "assets/projects/logos/upz.webp"
+        "/assets/projects/logos/ar_studio.webp",
+        "/assets/projects/logos/gacii.webp",
+        "/assets/projects/logos/satgas.webp",
+        "/assets/projects/logos/useed.webp",
+        "/assets/projects/logos/upz.webp"
       ]
     },
 
@@ -354,7 +354,7 @@ const portfolioData = {
       role: "Comic Artist & Layout Artist",
       timeline: "Karya Buku Ilustrasi",
       tagline: "Buku cerita bergambar anak dengan ilustrasi dongeng klasik pangeran katak.",
-      heroImage: "assets/projects/comic/comic_page_1.webp",
+      heroImage: "/assets/projects/comic/comic_page_1.webp",
       overview: "Proyek perancangan komik naratif dan buku cerita anak bergambar yang mengangkat kisah klasik Pangeran Katak dan Bola Emas dengan visual kontemporer yang ramah anak.",
       challenge: "Menyusun tata letak panel komik yang dinamis serta pewarnaan ceria yang merangsang imajinasi pembaca usia dini.",
       approach: "Perancangan sketsa karakter katak dan putri, tata letak panel cerita berurutan, tipografi dialog yang mudah dibaca, serta pewarnaan digital berlapis.",
@@ -367,9 +367,9 @@ const portfolioData = {
       quote: "Cerita yang baik menanamkan nilai luhur melalui keajaiban visual dan imajinasi.",
       quoteAuthor: "Children Story Vision",
       gallery: [
-        "assets/projects/comic/comic_page_1.webp",
-        "assets/projects/comic/comic_page_2.webp",
-        "assets/projects/comic/comic_page_3.webp"
+        "/assets/projects/comic/comic_page_1.webp",
+        "/assets/projects/comic/comic_page_2.webp",
+        "/assets/projects/comic/comic_page_3.webp"
       ]
     },
 
@@ -383,7 +383,7 @@ const portfolioData = {
       role: "Lead Brand Identity & Art Direction",
       timeline: "4 Minggu",
       tagline: "Buku panduan identitas merek terstruktur, standarisasi elemen visual, dan sistem aplikasi merchandise apparel.",
-      heroImage: "assets/projects/branding/brandbook_page_1.webp",
+      heroImage: "/assets/projects/branding/brandbook_page_1.webp",
       overview: "PAKSA adalah perancangan identitas merek menyeluruh yang menggabungkan buku panduan gaya (Brand Guidelines Book) dengan ekosistem merchandise fisik. Proyek ini memetakan karakter brand yang berani, utilitarian, dan modern melalui standarisasi tipografi, rasio logo, serta implementasi nyata pada produk apparel dan kemasan merchandise.",
       challenge: "Membangun sistem identitas merek yang fleksibel namun ketat dalam menjaga konsistensi visual saat diaplikasikan ke berbagai medium cetak, bordir tekstil, label pakaian, hingga kemasan merchandise tanpa kehilangan esensi visualnya.",
       approach: "Menyusun grid geometri logo dengan pedoman clear space presisi, kurasi palet warna monokromatik dengan aksen kontras, penentuan hierarki tipografi editorial, serta pembuatan mockup aplikasi merchandise berkualitas tinggi yang siap diproduksi massal.",
@@ -397,14 +397,14 @@ const portfolioData = {
       quote: "Identitas merek yang kuat tidak hanya terlihat bagus di layar, tetapi berkarakter saat disentuh dan dikenakan.",
       quoteAuthor: "PAKSA Brand Manifesto",
       gallery: [
-        "assets/projects/branding/brandbook_page_1.webp",
-        "assets/projects/branding/paksa/1.png",
-        "assets/projects/branding/paksa/2.png",
-        "assets/projects/branding/paksa/3.png",
-        "assets/projects/branding/paksa/4.png",
-        "assets/projects/branding/paksa/5.png",
-        "assets/projects/branding/brandbook_page_2.webp",
-        "assets/projects/branding/brandbook_page_4.webp"
+        "/assets/projects/branding/brandbook_page_1.webp",
+        "/assets/projects/branding/paksa/1.png",
+        "/assets/projects/branding/paksa/2.png",
+        "/assets/projects/branding/paksa/3.png",
+        "/assets/projects/branding/paksa/4.png",
+        "/assets/projects/branding/paksa/5.png",
+        "/assets/projects/branding/brandbook_page_2.webp",
+        "/assets/projects/branding/brandbook_page_4.webp"
       ]
     },
 
@@ -418,7 +418,7 @@ const portfolioData = {
       role: "Visual Content Designer & Art Director",
       timeline: "Koleksi Konten Berkelanjutan",
       tagline: "Koleksi kurasi desain feed Instagram modular, tipografi ekspresif, dan strategi layout visual berdaya tarik tinggi.",
-      heroImage: "assets/projects/social/feed_39.webp",
+      heroImage: "/assets/projects/social/feed_39.webp",
       overview: "Rangkaian eksplorasi desain konten media sosial berfokus pada feed Instagram editorial, carousel informatif, dan layout promosi visual. Setiap desain dirancang untuk memecah kejenuhan linimasa dengan komposisi tipografi yang kuat, tata letak asimetris dinamis, serta palet warna yang memikat audiens modern.",
       challenge: "Menciptakan konsistensi visual di feed media sosial sembari memastikan tiap postingan memiliki daya pikat visual (stopping power) dan hierarki pesan yang cepat terbaca dalam hitungan detik pertama saat pengguna menggulir layar.",
       approach: "Menerapkan sistem modular berbasis rasio 1:1 dan 4:5, memadukan mikro-tipografi dengan judul berukuran masif, serta mengoptimalkan aset grafis menggunakan format WebP untuk performa rendering tajam tanpa artefak kompresi.",
@@ -432,15 +432,15 @@ const portfolioData = {
       quote: "Di media sosial, visual adalah pintu masuk pertama. Jika desainnya tidak berbicara dalam 2 detik, pesan Anda terlewat.",
       quoteAuthor: "Digital Content Strategy",
       gallery: [
-        "assets/projects/social/feed_39.webp",
-        "assets/projects/social/feed_18.webp",
-        "assets/projects/social/feed_2.webp",
-        "assets/projects/social/feed_4.webp",
-        "assets/projects/social/feed_36.webp",
-        "assets/projects/social/feed_35.webp",
-        "assets/projects/social/feed_7.webp",
-        "assets/projects/social/25.webp",
-        "assets/projects/social/3.webp"
+        "/assets/projects/social/feed_39.webp",
+        "/assets/projects/social/feed_18.webp",
+        "/assets/projects/social/feed_2.webp",
+        "/assets/projects/social/feed_4.webp",
+        "/assets/projects/social/feed_36.webp",
+        "/assets/projects/social/feed_35.webp",
+        "/assets/projects/social/feed_7.webp",
+        "/assets/projects/social/25.webp",
+        "/assets/projects/social/3.webp"
       ]
     }
   ]
